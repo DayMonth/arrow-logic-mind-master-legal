@@ -32,7 +32,7 @@ The statements about data practices must stay in sync with the build:
 - no advertising SDK, no analytics SDK, no tracking, no account system;
 - all progress stored locally in the app sandbox (no cloud save);
 - Feedback opens the user's mail app with a `mailto:` draft;
-- support address: `support@lightgame.com`.
+- support address: `PatricioSergio476@gmail.com`.
 
 If a future version adds ads, IAP, analytics or a backend, the Privacy Policy
 (sections 1, 2, 10) and the Terms (section 4) must be updated in the same
